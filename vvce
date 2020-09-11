@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Web lab</title>
+  </head>
+  <body>
+    <h1 style="text-align : center"> Welcome to VVCE</h1>
+    <p style="text-align : center ;font-size:40px"> 
+		<i>Vidyavardhaka College of Engineering</i>
+	</p>
+    <b style="font-size: 40px"> Dept of CSE </b>
+    <p><strong> Brief description of the CSE Department</strong>
+		<br><i> The department supports the students towards the growth and development, helps in holistic development of the students</i>
+    </p> 
+	
+    <img style="height:100px";"width:100px" src="image.jpg" alt="cs">
+    <br>
+	
+    <a href="www.vvce.ac.in">Click here to visit college website</a>
+	
+    <p><h2>List of clubs in the department: </h2></p>
+    <ol>
+      <li>Code club</li>
+      <li>Osl</li>
+	  <li>ACM</li>
+	  <li>Wing</li>
+    </ol>
+	
+    <p><h2>College clubs in the department: </h2></p>
+    <ul>
+      <li>Magna</li>
+      <li>Aspera</li>
+	  <li>DSC</li>
+	  <li>Toast Masters VVCE</li>
+    </ul>
+
+    <p><strong>Principal</strong></p>
+    <p style="background-color:purple;color:white;opacity:0.6">Dr. Sadhashive Gowda </p>
+
+    <p><del>No</del> Classes till 30th September</p>
+
+    <p> Developed by <strong>Shiva Lokesh Reddy P</strong></p>
+	
+    <p><i>The subjects of 7th semester are:</i></p>
+	
+    <style>
+    table, th, td {border: 1px solid blue; border-collapse: collapse;} 
+    </style>
+	
+    <table>
+      <tr>
+        <th> Name</th>
+        <th>Code</th>
+      </tr>
+	  
+      <tr>
+        <td>Web Technology</td>
+        <td>17CS71</td>
+      </tr>
+	  
+      <tr>
+        <td>Advanced  Computer Architecture</td>
+        <td>17CS72</td>
+      </tr>
+	  
+      <tr>
+        <td>Machine Learning</td>
+        <td>17CS3</td>
+      </tr>
+	  
+      <tr>
+        <td>Storage Area Network</td>
+        <td>17CS754</td>
+      </tr>
+	  
+      <tr>
+        <td>Cloud Computing</td>
+        <td>17CS742</td>
+      </tr>
+	</table>
+  </body>
